@@ -1,0 +1,3 @@
+rootProject.name='Demo Android Wear'
+include ':app'
+include ':wear'
